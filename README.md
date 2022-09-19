@@ -2,7 +2,7 @@
 # **DeShon Dixon's Reading Journal: Lab: 01b - Learning Markdown**
 ### <sup> *Hello my name is DeShon Dixon i've spent three years in the US Army. I then attended film school for three years. I began watching tutorials on youtube and reading through reddit and realized I would find more passion in software development. I finally deciced to make the leap into joining Code Fellows.* <sup/>
 
-##### **GITHUB PORTFOLIO: https://github.com/deshondixon* 
+##### *GITHUB PORTFOLIO: https://github.com/deshondixon* 
   
 ### **Growth Mindset**
 
