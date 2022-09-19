@@ -2,7 +2,7 @@
 # **DeShon Dixon's Reading Journal: Lab: 01b - Learning Markdown**
 ### <sup> *Hello my name is DeShon Dixon i've spent three years in the US Army. I then attended film school for three years. I began watching tutorials on youtube and reading through reddit and realized I would find more passion in software development. I finally deciced to make the leap into joining Code Fellows.* <sup/>
 
-##### *GITHUB PORTFOLIO: https://github.com/deshondixon* 
+##### [GitHub Portfolio](https://github.com/deshondixon)
   
 ### **Growth Mindset**
 
@@ -15,4 +15,3 @@
   - *Life never gets boring or stagnant if your always learning. Keep up with the competition. Your old tricks and method will fade out quick and you'll realize those that chose to countine to learn and not allow themselves to succumb to stagnation excel above others.*
 
  
-`rgb(9, 105, 218)`
