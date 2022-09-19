@@ -10,8 +10,7 @@
 
 <p> My understanding of growth mindset is that countinous growth leads to more productivity. Countinous effort to grow yourself leads to an increase in abilites. Everyone has different starting points in their intelligance but constant growth cause allow even a person who has a lower intelligance level to execel above over others that have a higher starting point in their intelligance. I have strong belief in the growth mindset, even though I've never been considered smart in the past, in my adult life I've been able to grow my intellignace at a rapid pace because I learned to love learning and always strive to learn more. <p/>
   
-### *Reminders*
-  
+### Reminders 
 1. Don't get comfortable and stuck in my ways. Strive to new learn something new even and take a different approach to my usual methods.
 2. Even if I fail at something don't give up. Learn from your mistakes and understand why those mistakes where made.
 3. Your old tricks and method will fade out quick. You'll realize those that chose to countine to learn excel above others.
