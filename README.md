@@ -12,7 +12,7 @@
   
 **Reminders**
   
- 1. Don't get comfortable and stuck in my ways. Strive to new learn something new even and take a different approach to my usual methods. 
- 2. Even if I fail at something don't give up. Learn from your mistakes and understand why those mistakes where made. 
- 3. Your old tricks and method will fade out quick. You'll realize those that chose to countine to learn excel above others.
+ - Don't get comfortable and stuck in my ways. Strive to new learn something new even and take a different approach to my usual methods. 
+ - Even if I fail at something don't give up. Learn from your mistakes and understand why those mistakes where made. 
+ - Your old tricks and method will fade out quick. You'll realize those that chose to countine to learn excel above others.
   
