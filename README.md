@@ -13,5 +13,3 @@
   - *Don't get comfortable and stuck in my ways. Strive to new learn something new even and take a different approach to my usual methods.*
   - *Even if I fail at something don't give up. Learn from your mistakes and understand why those mistakes where made.* 
   - *Life never gets boring or stagnant if your always learning. Keep up with the competition. Your old tricks and method will fade out quick and you'll realize those that chose to countine to learn and not allow themselves to succumb to stagnation excel above others.*
-
- 
