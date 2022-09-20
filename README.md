@@ -16,3 +16,5 @@
  - Even if I fail at something don't give up. Learn from your mistakes and understand why those mistakes where made. 
  - Your old tricks and method will fade out quick. You'll realize those that chose to countine to learn excel above others.
   
+READ1.md
+READ2.md
