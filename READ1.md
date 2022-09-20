@@ -8,7 +8,7 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap
 
 Rendered Image
 
-GitHub supports embedding images into your issues, pull requests, discussions, comments and .md files. You can display an image from your repository, add a link to an online image, or upload an image. For more information, see "Uploading assets."
+## *I learned you can add images you've uploaded in your repository on Github and link that to your pages so it will display on the page.*
 
 # Lists
 
@@ -26,6 +26,6 @@ To order your list, precede each line with a number.
 2. James Monroe
 3. John Quincy Adams
 
-Rendered ordered list
+## *I also learned that you can created list and bullet point's on your pages in repository. This give the page a more effiencent layout and makes it easy to read in list format.*
 
 
