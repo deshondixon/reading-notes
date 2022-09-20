@@ -1,6 +1,6 @@
 # *Read: 03 - Revisions and the Cloud*
 
-## **Opening a GitHub Project into VSCODE**
+## **Open a GitHub Project into VSCODE**
 
      - Open up terminal
      - Enter ls into terminal
