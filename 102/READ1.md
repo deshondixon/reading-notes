@@ -10,7 +10,7 @@ Rendered Image
 
 ## *I learned you can add images you've uploaded in your repository on Github and link that to your pages so it will display on the page.*
 
-# Lists
+## Lists
 
 You can make an unordered list by preceding one or more lines of text with - or *.
 
@@ -27,5 +27,3 @@ To order your list, precede each line with a number.
 3. John Quincy Adams
 
 ## *I also learned that you can created list and bullet point's on your pages in repository. This give the page a more effiencent layout and makes it easy to read in list format.*
-
-
