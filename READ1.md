@@ -1,4 +1,6 @@
-# Images
+# *Read: 01 - Learning Markdown Notes*
+
+## Images
 
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
