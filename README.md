@@ -12,3 +12,4 @@
 * [Class 1 Notes](102/READ1.md)
 * [Class 2 Notes](102/READ2.md)
 * [Class 3 Notes](102/READ3.md)
+* [Class 4 Notes](102/READ4.md)
