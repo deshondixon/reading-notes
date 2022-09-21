@@ -2,7 +2,7 @@
 
 ## WIREFRAMING
 
-    I learned that wireframing is used to setup the layout of your application, website, or which product you creating at the time.
+    Learned that wireframing is used to setup the layout of your application, website, or which product you creating at the time.
     
     Wireframing enables a developer to get a outline of what their site will look like before the project is started and they are able to work together with their client to formal the website, application, or product before any coding is started.
 
