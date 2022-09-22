@@ -1,0 +1,42 @@
+# *Read: 08 - Operators and Loops*
+
+## Expressions and Operators
+
+The are two forms of expressions:
+
+     Expressions with side effects
+     Expressions that evaluate
+
+Here is an example of expressions with side effects:
+
+     x = 7
+
+Here is an example of expressions that only evaluate:
+
+     3 + 4
+
+These expressions is combine to together by operators:
+
+The operators used in the above examples are:
+    
+     =
+     +
+
+
+## Loops
+
+Loops allow us to do something over and over in a fast and effective way.
+
+Loops are similar to that of a game that you tell some to take X amount of steps one way and Y steps in another way.
+
+Here is an example of a Loop:
+
+     for (let step = 0; step < 5; step++) {
+     // Runs 5 times, with values of step 0 through 4.
+     console.log('Walking east one step');
+     }
+
+There's different types of loops but they essentially do the same as the others. 
+
+This is a small introduction the topics of loops I'm still learning much of it as I go but still motivated to learn it all
+

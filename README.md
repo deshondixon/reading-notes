@@ -15,4 +15,5 @@
 * [Class 4 Notes](102/READ4.md)
 * [Class 5 Notes](102/READ5.md)
 * [Class 6 Notes](102/READ6.md)
-
+* [Class 7 Notes](102/READ7.md)
+* [Class 8 Notes](102/READ8.md)
