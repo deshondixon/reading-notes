@@ -7,7 +7,7 @@
 
 #### [GitHub Portfolio](https://github.com/deshondixon)
 
-## Table Of Contents
+## TABLE OF CONTENTS
 
 * [Class 1 Notes](102/READ1.md)
 * [Class 2 Notes](102/READ2.md)
