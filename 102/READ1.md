@@ -2,7 +2,7 @@
 
 ## Images
 
-You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
+You can displays an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
@@ -26,4 +26,4 @@ To order your list, precede each line with a number.
 2. James Monroe
 3. John Quincy Adams
 
-## *I also learned that you can created list and bullet point's on your pages in repository. This give the page a more effiencent layout and makes it easy to read in list format.*
+## *I also learned that you can created list and bullet point's on your pages in repository. This give the page a more efficient layout and makes it easy to read in list format.*
