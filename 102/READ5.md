@@ -3,12 +3,12 @@
 ## CSS BACKGROUNDS
 
 There are many CSS background properties to use:
-     - background-color
-     - background-image
+      - background-color
+      - background-image
       - background-repeat
       - background-attachment
-     - background-position
-     - background
+      - background-position
+      - background
 
 These background property effect specific parts of the background elements in different way.
 Give them a try in VSCODE to see what you can create.

@@ -10,9 +10,8 @@ Alert in Javascript will create a pop on your browser of choice with a message i
  
      </script>
 
-         There are endless things to do and create in Javascript but 
-         for now give this a try to get an introduction to what 
-         the software can do.
+
+     There are endless things to do and create in Javascript but for now give this a try to get an introduction to what the software can do.
 
 ## Prompt
 
@@ -33,10 +32,9 @@ Similar to alert prompt creates a pop with text but you can also fill in a text 
      document.write("Your e-mail address is ", name);
  
      </script>
+     
 
-         Try out one or both of these examples to see what you create. 
-         I've only just been introduced to Javascript but I am excited 
-         for the endless possibilities.
+     Try out one or both of these examples to see what you create. I've only just been introduced to Javascript but I am excited for the endless possibilities.
 
 
 
