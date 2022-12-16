@@ -7,6 +7,8 @@
 
 #### [GitHub Portfolio](https://github.com/deshondixon)
 
+#### [Growth Mindset](102/growthmindset.md)
+
 ## TABLE OF CONTENTS
 
 Code 102 - Intro to Software Development
