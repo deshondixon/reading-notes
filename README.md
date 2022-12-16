@@ -11,14 +11,14 @@
 
 Code 102 - Intro to Software Development
 
-* [Class 1 Notes](102/READ1.md)
-* [Class 2 Notes](102/READ2.md)
-* [Class 3 Notes](102/READ3.md)
-* [Class 4 Notes](102/READ4.md)
-* [Class 5 Notes](102/READ5.md)
-* [Class 6 Notes](102/READ6.md)
-* [Class 7 Notes](102/READ7.md)
-* [Class 8 Notes](102/READ8.md)
+* [Class 1 Notes](102/102read1.md)
+* [Class 2 Notes](102/102read2.md)
+* [Class 3 Notes](102/102read3.md)
+* [Class 4 Notes](102/102read4.md)
+* [Class 5 Notes](102/102read5.md)
+* [Class 6 Notes](102/102read6.md)
+* [Class 7 Notes](102/102read7.md)
+* [Class 8 Notes](102/102read8.md)
 
 Code 201 - Foundations of Software Development
 
@@ -57,3 +57,26 @@ Code 301 - Intermediate Software Development
 * [Class 15 Notes](301/301read15.md)
 
 Code 401 - Advanced Software Development
+
+* [Class 1 Notes](401/401read1.md)
+* [Class 2 Notes](401/401read2.md)
+* [Class 3 Notes](401/401read3.md)
+* [Class 4 Notes](401/401read4.md)
+* [Class 5 Notes](401/401read5.md)
+* [Class 6 Notes](401/401read6.md)
+* [Class 7 Notes](401/401read7.md)
+* [Class 8 Notes](401/401read8.md)
+* [Class 9 Notes](401/401read9.md)
+* [Class 10 Notes](401/401read10.md)
+* [Class 11 Notes](401/401read11.md)
+* [Class 12 Notes](401/401read12.md)
+* [Class 13 Notes](401/401read13.md)
+* [Class 14 Notes](401/401read14.md)
+* [Class 15 Notes](401/401read15.md)
+* [Class 16 Notes](401/401read16.md)
+* [Class 17 Notes](401/401read17.md)
+* [Class 18 Notes](401/401read18.md)
+* [Class 19 Notes](401/401read19.md)
+* [Trees Notes](401/401Trees.md.md)
+* [Linked List Notes](401/401LinkedLists.md)
+* [Stacks and Queues Notes](401/401Stacks%26Queues.md)
