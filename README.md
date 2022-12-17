@@ -7,7 +7,7 @@
 
 #### [GitHub Portfolio](https://github.com/deshondixon)
 
-#### [Growth Mindset](102/growthmindset.md)
+#### [Growth Mindset](401/GrowthMindset.md)
 
 ## TABLE OF CONTENTS
 
