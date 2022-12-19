@@ -79,7 +79,7 @@ Creating a directory is pretty easy. Removing or deleting a directory is easy to
 # *Cheat Sheet*
 
 ## Basic Navigation
--------------------------------------------------------------
+
 pwd
 Where am I in the system.
 
@@ -114,7 +114,6 @@ Start typing and press TAB. The system will auto complete the path. Press TAB tw
 -------------------------------------------------------------
 
 ## More About Files
--------------------------------------------------------------
 
 file [path]
 Find out what type of item a file or directory is.
