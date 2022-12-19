@@ -25,5 +25,7 @@
 # References
 
 <https://landing.chartio.com/download-learn-sql>
+
 <https://sqlbolt.com/>
+
 <https://aws.amazon.com/relational-database/>
