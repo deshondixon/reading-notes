@@ -1,6 +1,7 @@
-# *Implementation: Linked Lists
+# Implementation: Linked Lists
 
 ## Big O: Analysis of Algorithm Efficiency
+
 Big O is used to define the efficiency of your algorithm/function.
 Its is defined by running time which is the time is takes to complete your function.
 It is also defined by memory space which is the amount of memory required to instructions and data.  
