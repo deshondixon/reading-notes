@@ -12,13 +12,13 @@ We can describe overall efficiency by using the input size n and measuring the
 
 Source: <https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html>
 
-## Visual
+## Big O Diagrams
 
-![Diagram 1](https://file%2B.vscode-resource.vscode-cdn.net/Users/deshondixon/Desktop/Screenshot%202022-12-26%20at%202.57.34%20PM.png?version%3D1672096355504)
+![Big O Diagram 1](images/bigOdiagram1.png)
 
-![Diagram 2](https://file%2B.vscode-resource.vscode-cdn.net/Users/deshondixon/Desktop/Screenshot%202022-12-26%20at%203.00.56%20PM.png?version%3D1672096384546)
+![Big O Diagram 2](images/bigOdiagram2.png)
 
-![Diagram 3](https://file%2B.vscode-resource.vscode-cdn.net/Users/deshondixon/Desktop/Screenshot%202022-12-26%20at%203.01.01%20PM.png?version%3D1672096415466)
+![Big O Diagram 3](images/bigOdiagram3.png)
 
 All visual source: <https://www.youtube.com/watch?v=oJ5s2hs_cKk>
 
