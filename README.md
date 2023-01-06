@@ -3,7 +3,7 @@
 
 ## *Introduction*
 
-### Hello my name is DeShon Dixon i've spent three years in the US Army. I then attended film school for three years. I began watching tutorials on youtube and reading through reddit and realized I would find more passion in software development. I finally decided to make the leap into joining Code Fellows
+### Hey! I’m DeShon Dixon. A US Army Veteran, I've recently transitioned into software development. The languages I utilize the most are JavaScript and Python. I’m very coachable, eager to learn, and easy to work with. I’ve always worked jobs that involve me finding solutions for customer needs and have a strong passion for problem solving. I’ve worked in sales, video editing, and as a mechanic in the army and they have always been favored because I listen with empathy and ensure expectations are met. I’m able to hold my own because I’m willing to listen to advice. I love to hear opinions on how I could be more effective. I strive to learn more and handle ambiguity well. I’m self-starting and continually find ways to be productive. I’m a team player and put the greater good of the team before individual gain. I own up to anything I am wrong in. I never make excuses or hide my mistakes. I do what it takes to correct those mistakes and learn from them.
 
 #### [GitHub Portfolio](https://github.com/deshondixon)
 
