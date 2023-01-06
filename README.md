@@ -77,7 +77,7 @@ Code 401 - Advanced Software Development
 * [Class 17 Notes](401/401read17.md)
 * [Class 18 Notes](401/401read18.md)
 * [Class 19 Notes](401/401read19.md)
-* [Trees Notes](401/401Trees.md.md)
+* [Trees Notes](401/401Trees.md)
 * [Linked List Notes](401/401LinkedLists.md)
 * [Introduction to SQL](401/Introduction-to-SQL.md)
 * [Practice in Terminal](401/Practice-in-Terminal.md)
