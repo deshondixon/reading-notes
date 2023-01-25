@@ -80,6 +80,7 @@ Code 401 - Advanced Software Development
 * [Class 26 Notes](401/401read26.md)
 * [Class 27 Notes](401/401read27.md)
 * [Class 28 Notes](401/401read28.md)
+* [Class 29 Notes](401/401read29.md)
 * [Tree Notes](401/401Trees.md)
 * [Linked List Notes](401/401LinkedLists.md)
 * [Introduction to SQL](401/Introduction-to-SQL.md)
