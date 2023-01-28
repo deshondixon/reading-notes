@@ -82,6 +82,7 @@ Code 401 - Advanced Software Development
 * [Class 28 Notes](401/401read28.md)
 * [Class 29 Notes](401/401read29.md)
 * [Tree Notes](401/401Trees.md)
+* [Hash Table Notes](401/HashTable.md)
 * [Linked List Notes](401/401LinkedLists.md)
 * [Introduction to SQL](401/Introduction-to-SQL.md)
 * [Practice in Terminal](401/Practice-in-Terminal.md)
