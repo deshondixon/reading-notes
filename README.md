@@ -84,6 +84,7 @@ Code 401 - Advanced Software Development
 * [Class 31 Notes](401/401read31.md)
 * [Class 32 Notes](401/401read32.md)
 * [Class 33 Notes](401/401read33.md)
+* [Class 34 Notes](401/401read34.md)
 * [Tree Notes](401/401Trees.md)
 * [Hash Table Notes](401/HashTable.md)
 * [Linked List Notes](401/401LinkedLists.md)
