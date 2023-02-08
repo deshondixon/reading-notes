@@ -1,8 +1,5 @@
 {
   "liveServer.settings.port": 5501,
-  "cSpell.words": [
-    "coachable",
-    "OIDC",
-    "PKCE"
-  ]
+  "cSpell.words": ["coachable", "OIDC", "PKCE"],
+  "cSpell.language": "en,en-US"
 }
