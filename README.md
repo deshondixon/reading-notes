@@ -91,6 +91,7 @@ Code 401 - Advanced Software Development
 - [Class 40 Notes](401/401read40.md)
 - [Class 41 Notes](401/401read41.md)
 - [Class 42 Notes](401/401read42.md)
+- [Class 43 Notes](401/401read43.md)
 - [Ethics in Tech](401/Ethics.md)
 - [Tree](401/401Trees.md)
 - [Hash Table](401/HashTable.md)
